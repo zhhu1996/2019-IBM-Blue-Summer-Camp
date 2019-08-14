@@ -6,7 +6,7 @@
 
 ## 2. 日程
 
-|               | Day 0 - Aug 5                                                | Day 1 - Aug                                                  | Day 2 - Aug 7.                                               | Day 3 - Aug 8                                                |
+|               | Day 0 - Aug 5                                                | Day 1 - Aug 6                                                | Day 2 - Aug 7                                                | Day 3 - Aug 8                                                |
 | ------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 9:00 - 12:00  |                                                              | **Orientation**<br/>• IBM Client Center tour<br/>• IBM THINK Lab tour<br/>**Journey to AI (Part1)**<br/>• AI for Business <br/>• Cognitive Healthcare<br/>• PowerAI Vision<br/>• AI for IT | **Journey to Cloud**<br/>• Journey to Cloud<br/>• IBM & Red Hat<br/>**Journey to Modern Infrastructure**<br/>• IBM System Lab tour<br/>• HPC and POWER<br/>• Blockchain on LinuxONE | **Journey to Cognitive Enterprise**<br/>• IBM Transformation<br/>• IBM Service and Consultant<br/>• Cognitive Enterprise<br/>**Meet with IBM GCG Chairman** |
 | 12:00 - 13:30 |                                                              | **Lunch Meeting with IBM Researcher**                        | **Lunch Meeting with IBM Researcher**                        | **Lunch**                                                    |
