@@ -1,4 +1,4 @@
-# 2019 IBM Blue Summer Camp: Day 2
+# 2019 IBM Blue Summer Camp: Day 
 
 ![DING5497](../utils/DING5497.JPG)
 
