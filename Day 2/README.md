@@ -1,38 +1,68 @@
-# 2019 IBM Blue Summer Camp: Day 0
+# 2019 IBM Blue Summer Camp: Day 2
 
-![](../utils/DING3428.JPG)
+![DING5497](../utils/DING5497.JPG)
 
-![](../utils/DING3437.JPG)
+![DING5573](../utils/DING5573.JPG)
 
-![](../utils/DING3507.JPG)
+![DING5625](../utils/DING5625.JPG)
 
-![](../utils/DING3509.JPG)
+![DING5642](../utils/DING5642.JPG)
 
-![](../utils/DING3564.JPG)
+![DING5674](../utils/DING5674.JPG)
 
-![](../utils/DING3637.JPG)
+![DING5678](../utils/DING5678.JPG)
 
-![DING3686](../utils/DING3686.JPG)
+![DING5932](../utils/DING5932.jpg)
 
-![DING3846](../utils/DING3846.JPG)
+![DING5938](../utils/DING5938.jpg)
 
-![DING3847](../utils/DING3847.JPG)
+![DING5998](../utils/DING5998.jpg)
 
-![DING3849](../utils/DING3849.JPG)
+![DING6116](../utils/DING6116.JPG)
 
-![DING3870](../utils/DING3870.JPG)
+![DING6165](../utils/DING6165.JPG)
 
-![DING3871](../utils/DING3871.JPG)
+![DING6166](../utils/DING6166.JPG)
 
-![DING3874](../utils/DING3874.JPG)
+![DING6169](../utils/DING6169.JPG)
 
-![DING3894](../utils/DING3894.JPG)
+![DING6222](../utils/DING6222.JPG)
 
-![DING3895](../utils/DING3895.JPG)
+![DING6223](../utils/DING6223.JPG)
 
-![DING3935](../utils/DING3935.JPG)
+![DING6225](../utils/DING6225.JPG)
 
-![DING3936](../utils/DING3936.JPG)
+![DING6227](../utils/DING6227.JPG)
 
-![DING3937](../utils/DING3937.JPG)
+![DING6269](../utils/DING6269.JPG)
+
+![DING6360](../utils/DING6360.JPG)
+
+![DING6362](../utils/DING6362.JPG)
+
+![DING6483](../utils/DING6483.JPG)
+
+![DING6640](../utils/DING6640.JPG)
+
+![DING6641](../utils/DING6641.JPG)
+
+![DING6642](../utils/DING6642.JPG)
+
+![DING6643](../utils/DING6643.JPG)
+
+![DING6652](../utils/DING6652.JPG)
+
+![DING6704](../utils/DING6704.JPG)
+
+![DING6791](../utils/DING6791.JPG)
+
+![DING6793](../utils/DING6793.JPG)
+
+![DING6794](../utils/DING6794.JPG)
+
+![DING6795](../utils/DING6795.JPG)
+
+![DING6796](../utils/DING6796.JPG)
+
+![DING6797](../utils/DING6797.JPG)
 
