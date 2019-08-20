@@ -29,7 +29,13 @@
 
 - 交大双胞胎
 
-<iframe height=498 width=510 src="./utils/1566341572207334.mp4">
+<iframe 
+        height=498 
+        width=510 
+        src="./utils/1566341572207334.mp4" 
+        frameborder=0 
+    		allowfullscreen>
+</iframe>
 
 - 武大妹子
 
