@@ -27,21 +27,9 @@
 
 ## 5. Highlights
 
-- [交大双胞胎](./utils/1566341572207334.mp4)
+- [交大吴玲玲、复旦姜尔玲(姐妹)](./utils/1566341572207334.mp4)
 
-<iframe 
-        height=498 
-        width=510 
-        src="./utils/1566341572207334.mp4" 
-        frameborder=0 
-    		allowfullscreen>
-</iframe>
+- [武大陈嘉欣](./utils/1566341580191791.mp4)
 
-- 武大妹子
-
-<iframe height=498 width=510 src="./utils/1566341580191791.mp4">
-
-- 北理妹子
-
-<iframe height=498 width=510 src="./utils/1566341725674020.mp4">
+- [北理工王璐](./utils/1566341725674020.mp4)
 
