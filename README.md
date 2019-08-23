@@ -21,9 +21,9 @@
 
 ## 4. Our Works
 
-- Data Science
-- Design Thinking
-- Topic Show
+- [Data Science](https://github.com/z-h-u-j-u-n/2019-IBM-Blue-Summer-Camp/blob/master/works/IBM_2019_SummerCamp_Proj.ipynb)
+- [Design Thinking](https://github.com/z-h-u-j-u-n/2019-IBM-Blue-Summer-Camp/blob/master/utils/DING6704.JPG)
+- [Topic Show]([https://github.com/z-h-u-j-u-n/2019-IBM-Blue-Summer-Camp/blob/master/works/2%E7%BB%84%E4%B8%8D2%E7%BB%84.pptx](https://github.com/z-h-u-j-u-n/2019-IBM-Blue-Summer-Camp/blob/master/works/2组不2组.pptx))
 
 ## 5. Highlights
 
