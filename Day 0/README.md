@@ -18,8 +18,6 @@
 
 ![DING3847](../utils/DING3847.JPG)
 
-![DING3849](../utils/DING3849.JPG)
-
 ![DING3870](../utils/DING3870.JPG)
 
 ![DING3871](../utils/DING3871.JPG)
